@@ -41,3 +41,4 @@ plt.xlabel("Number")
 plt.ylabel("Square")
 plt.grid(True)
 plt.show()
+
